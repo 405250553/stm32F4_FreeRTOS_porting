@@ -2,7 +2,7 @@
 
 - IDE : Keil
 - FreeRTOS Kernel : V10.4.4
-- FreeRTOS相關code放在Drivers\FreeRTOS_Driver
+- FreeRTOS相關code 在 Drivers\FreeRTOS_Driver
 - FreeRTOSConfig.h 在 Core\Inc
 
 ## FreeRTOS 移植
